@@ -1,6 +1,4 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+
 -- loading Frxser Library
 local FrxserLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/XeFrostz/FHub-Lib-V2/refs/heads/main/lib.lua"))()
 
