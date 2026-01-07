@@ -333,7 +333,7 @@ function FrxserLib:CreateWindow(options)
         RippleSpeed = options.RippleSpeed or 0.4,
         CornerRadius = options.CornerRadius or 12,
         ElementCornerRadius = options.ElementCornerRadius or 10,
-        BlurEnabled = options.BlurEnabled == true -- Default to false (no blur)
+        BlurEnabled = options.BlurEnabled == false -- Default to false (no blur)
     }
     
     -- Window State
